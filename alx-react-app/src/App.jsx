@@ -1,8 +1,8 @@
 import WelcomeMessage from "./components/WelcomeMessage";
 import UserProfile from "./UserProfile";
-import Header from "./Header";
-import MainContent from "./MainContent";
-import Footer from "./Footer";
+import Header from "./Header Components/Header";
+import MainContent from "./Main Content Component/MainContent";
+import Footer from "./Footer Component/Footer";
 // import { useState } from "react";
 // import "./App.css";
 
