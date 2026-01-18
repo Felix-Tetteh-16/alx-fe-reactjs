@@ -1,11 +1,11 @@
-import WelcomeMessage from "./components/WelcomeMessage";
-import UserProfile from "../src/components/UserProfile";
-import Header from "../src/components/Header";
-import MainContent from "../src/components/MainContent";
-import Footer from "../src/components/Footer";
+import WelcomeMessage from './components/WelcomeMessage';
+import Header from './components/Header';
+import MainContent from './components/MainContent'
+import Footer from './components/Footer';
+import UserProfile from './components/UserProfile';
 
-// import { useState } from "react";
-// import "./App.css";
+import { useState } from "react";
+import "./App.css";
 
 function App() {
   return (
