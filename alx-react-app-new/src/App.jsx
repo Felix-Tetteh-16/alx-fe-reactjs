@@ -3,6 +3,7 @@ import UserProfile from "../src/components/UserProfile";
 import Header from "../src/components/Header";
 import MainContent from "../src/components/MainContent";
 import Footer from "../src/components/Footer";
+
 // import { useState } from "react";
 // import "./App.css";
 
