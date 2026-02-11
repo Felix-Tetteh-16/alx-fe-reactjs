@@ -1,11 +1,14 @@
 import { useState } from 'react'
+import HomePage from "./components/HomePage"
 
 
 function App() {
   
 
   return (
-    <h1 className="text-amber-300">Hello world</h1>
+    <div className="min-h-screen bg-gray-50">
+      <HomePage />
+    </div>
   );
 }
 
